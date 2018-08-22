@@ -81,7 +81,7 @@ class ViewController: UIViewController {
         content.sound = UNNotificationSound.default()
         
         // Deliver the notification in five seconds.
-        let trigger = UNTimeIntervalNotificationTrigger(timeInterval: 10, repeats: false)
+        let trigger = UNTimeIntervalNotificationTrigger(timeInterval: 9000, repeats: false)
         let request = UNNotificationRequest(identifier: "NoSuppliesBunker", content: content, trigger: trigger) // Schedule the notification.
         let center = UNUserNotificationCenter.current()
         center.add(request) { (error : Error?) in
