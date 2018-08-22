@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "Full"; ObjectID = "CkG-7G-41n"; */
+"CkG-7G-41n.text" = "Full";
+
+/* Class = "UILabel"; text = "Error"; ObjectID = "GO5-hn-6SN"; */
+"GO5-hn-6SN.text" = "Error";
+
+/* Class = "UILabel"; text = "Amelioration"; ObjectID = "JPl-CO-zjz"; */
+"JPl-CO-zjz.text" = "Amelioration";
+
+/* Class = "UITextField"; placeholder = "Bunker value"; ObjectID = "Ltg-Cg-Fng"; */
+"Ltg-Cg-Fng.placeholder" = "Bunker value";
+
+/* Class = "UILabel"; text = "x resupply will be necessary "; ObjectID = "ax7-20-9p0"; */
+"ax7-20-9p0.text" = "x resupply will be necessary ";
+
+/* Class = "UILabel"; text = "Fill"; ObjectID = "ek0-1S-3if"; */
+"ek0-1S-3if.text" = "Fill";
+
+/* Class = "UIButton"; normalTitle = "Calculate"; ObjectID = "jrF-jA-39F"; */
+"jrF-jA-39F.normalTitle" = "Calculate";
+
+/* Class = "UILabel"; text = "Please enter the value of your bunker below"; ObjectID = "txS-Hh-euj"; */
+"txS-Hh-euj.text" = "Please enter the value of your bunker below";
+
+/* Class = "UINavigationItem"; title = "GTA Calculator"; ObjectID = "uRm-SG-fJD"; */
+"uRm-SG-fJD.title" = "GTA Calculator";
+
+/* Class = "UILabel"; text = "It depends on your current raw material stock"; ObjectID = "xqc-Kz-3qf"; */
+"xqc-Kz-3qf.text" = "It depends on your current raw material stock";

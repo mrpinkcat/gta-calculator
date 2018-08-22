@@ -15,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D1676923212DCA8300A64A47 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 		D1EDCC8F20A4BBB300A4BD05 /* GTA-Calc.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GTA-Calc.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D1EDCC9220A4BBB300A4BD05 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D1EDCC9420A4BBB300A4BD05 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -147,6 +148,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				D1EDCC9720A4BBB300A4BD05 /* Base */,
+				D1676923212DCA8300A64A47 /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
